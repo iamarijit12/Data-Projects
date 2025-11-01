@@ -37,7 +37,3 @@ Key Insights
 | `Sales_Data Project.xlsx` | Contains raw data, processed dataset, and final dashboard |
 | `README.md` | This documentation file explaining the project details |
 
----
-
-### 🖼️ Dashboard Preview
-*(You can add an image file named `dashboard-preview.png` here later)*  
